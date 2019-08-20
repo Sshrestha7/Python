@@ -1,6 +1,5 @@
 # Caesar Cipher
 
-import pyperclip
 
 message = 'This is my secret message.'
 
